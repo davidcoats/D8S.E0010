@@ -13,4 +13,7 @@
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <RepositoryUrl>https://github.com/davidcoats/D8S.E0010.git</RepositoryUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Bogus" Version="35.4.0" />
+  </ItemGroup>
 </Project>
